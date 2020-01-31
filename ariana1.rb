@@ -59,7 +59,7 @@ sleep 14
 live_loop:yuh do
   2.times do
     sample gws, amp:x
-    sleep 20
+    sleep 30
     x=x-0.5
   end
   stop
