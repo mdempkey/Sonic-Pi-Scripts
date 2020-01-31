@@ -56,7 +56,7 @@ sample gws1
 sleep 14
 
 live_loop:yuh do
-  3.times do
+  2.times do
     sample gws, amp:x
     sleep 20
     x=x-0.5
