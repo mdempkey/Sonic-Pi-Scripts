@@ -7,6 +7,7 @@ needy ="C:/Users/martha_dempkey/Music/Ariana Grande - needy (Official Acapella).
 imh2 ="C:/Users/martha_dempkey/Music/end.wav"
 x = 1
 z = 1
+
 sample ari
 sleep 5.9
 
@@ -20,7 +21,7 @@ live_loop :ari do
 end
 
 sleep 10.6
-sample imh , amp:z
+sample imh
 sleep 14
 
 use_bpm 140
